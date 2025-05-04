@@ -7,3 +7,5 @@ You may share and use the code as-is, but you may not modify or distribute modif
 [View the license](https://creativecommons.org/licenses/by-nd/4.0/)
 
 For the code, view "master" branch of this repo
+
+In order to run this code, you need to install the Rust compiler at [this link](https://www.rust-lang.org/tools/install)
